@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mern-React1/static/css/main.073c9b0a.css",
+    "main.js": "/Mern-React1/static/js/main.0e6e937a.js",
+    "static/js/787.f1cf7c64.chunk.js": "/Mern-React1/static/js/787.f1cf7c64.chunk.js",
+    "index.html": "/Mern-React1/index.html",
+    "main.073c9b0a.css.map": "/Mern-React1/static/css/main.073c9b0a.css.map",
+    "main.0e6e937a.js.map": "/Mern-React1/static/js/main.0e6e937a.js.map",
+    "787.f1cf7c64.chunk.js.map": "/Mern-React1/static/js/787.f1cf7c64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e6e937a.js"
+  ]
+}
